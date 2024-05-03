@@ -11,7 +11,7 @@ spring:
     name: FOOD-CATALOG-SERVICE
   datasource:
     username: root
-    password: root
+    password: KrishnaRekha
     url: jdbc:mysql://localhost:3306/foodcataloguedb
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
